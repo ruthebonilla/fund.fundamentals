@@ -74,3 +74,5 @@ def printInfo(some_dict):
         print(b)
 
 printInfo(dojo)
+
+print("hello")
