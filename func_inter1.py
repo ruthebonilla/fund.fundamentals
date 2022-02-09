@@ -75,4 +75,3 @@ def printInfo(some_dict):
 
 printInfo(dojo)
 
-print("hello")
